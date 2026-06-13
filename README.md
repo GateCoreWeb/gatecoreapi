@@ -17,7 +17,7 @@ pip install requests rich
 
 ## Setup & Usage
 1. Clone your project or copy the `api_tester.py` file to your environment.
-2. Open `api_tester.py` and ensure the `API_KEY` matches your key from the https://gatecore.xyz/profile.
+2. Open `api_tester.py` and ensure the `API_KEY` matches your key from the https://gatecore.xyz/settings.
 3. Run the script:
 ```bash
 python3 api_tester.py
